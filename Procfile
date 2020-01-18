@@ -1,3 +1,3 @@
 # Procfile
 
-web: gunicorn practice.wsgi
+web: gunicorn blog.wsgi
